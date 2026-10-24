@@ -1,0 +1,10 @@
+{
+  "name": "dabai-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm -r --parallel dev",
+    "test": "pnpm -r test"
+  }
+}
